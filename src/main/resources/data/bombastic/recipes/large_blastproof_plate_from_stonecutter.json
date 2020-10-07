@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "savageandravage:blastproof_plates"
+  },
+  "result": "bombastic:large_blastproof_plate",
+  "count": 1
+}

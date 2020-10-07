@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "_",
+    "_"
+  ],
+  "key": {
+    "_": {
+      "item": "savageandravage:blast_proof_slab"
+    }
+  },
+  "result": {
+    "item": "bombastic:large_blastproof_plate",
+    "count": 1
+  }
+}
