@@ -10,8 +10,8 @@ displayName="Bombastic" #mandatory
 updateJSONURL="http://myurl.me/" #optional
 displayURL="http://example.com/" #optional
 logoFile="examplemod.png" #optional
-credits="Thanks for this example mod goes to Java" #optional
-authors="Love, Cheese and small house plants" #optional
+credits="Thanks to MCA" #optional
+authors="AvocadoSpud" #optional
 description='''
 Expands on Minecraft's explosives.
 '''
