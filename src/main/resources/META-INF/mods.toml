@@ -13,8 +13,7 @@ logoFile="examplemod.png" #optional
 credits="Thanks for this example mod goes to Java" #optional
 authors="Love, Cheese and small house plants" #optional
 description='''
-boomer
-
+Expands on Minecraft's explosives.
 '''
 [[dependencies.bombastic]] #optional
     modId="forge" #mandatory
